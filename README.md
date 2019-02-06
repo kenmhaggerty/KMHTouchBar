@@ -7,3 +7,7 @@ Please install **LocateMe** and generate a **Google Maps Geocoding API key** for
 - https://developers.google.com/maps/documentation/geocoding/get-api-key
 
 and please replace `<GOOGLE_MAPS_API_KEY>` in **Forecast → Shell Script/Task: Location** with your API key.
+
+And for the keyboard input switcher, please install **Swim**:
+
+- https://github.com/mitsuse/swim
